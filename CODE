@@ -1,0 +1,11 @@
+Here is the code structure, you can simply copy the CUSTOM coding and paste it. Put the asset font file name instead "" Name of font "" 
+
+@font-face {
+font-family: "NAME OF FONT";
+src: url("NAME-OF-FONT-FILE.woff2") format("woff2"),
+url("NAME-OF-FONT-FILE.woff") format("woff");
+}
+
+Add Classes here with comma { font-family: "NAME OF FONT"!important; }
+
+
